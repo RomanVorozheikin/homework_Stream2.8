@@ -1,4 +1,4 @@
-package com.example.homeworkstream.example;
+package com.example.homeworkstream.domain;
 
 import java.util.Objects;
 
